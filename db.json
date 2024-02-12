@@ -6,7 +6,7 @@
       "placa": "ABC1234",
       "ativo": true,
       "situacao": "No tempo certo",
-      "viagens": 3,
+      "viagens": false,
       "status_comunicacao": "No tempo certo"
     },
     {
@@ -15,7 +15,7 @@
       "placa": "DEF5678",
       "ativo": false,
       "situacao": "Inativo",
-      "viagens": 5,
+      "viagens": true,
       "status_comunicacao": "Atrasada"
     },
     {
@@ -24,7 +24,7 @@
       "placa": "GHI9101",
       "ativo": true,
       "situacao": "No tempo certo",
-      "viagens": 2,
+      "viagens": true,
       "status_comunicacao": "No tempo certo"
     },
     {
@@ -33,7 +33,7 @@
       "placa": "JKL2345",
       "ativo": true,
       "situacao": "No tempo certo",
-      "viagens": 1,
+      "viagens": false,
       "status_comunicacao": "No tempo certo"
     }
   ]
