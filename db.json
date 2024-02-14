@@ -4,8 +4,7 @@
       "id": 1,
       "nome": "Carro1",
       "placa": "ABC1234",
-      "ativo": true,
-      "situacao": "No tempo certo",
+      "situacao": true,
       "viagens": false,
       "status_comunicacao": "No tempo certo"
     },
@@ -13,8 +12,7 @@
       "id": 2,
       "nome": "Carro2",
       "placa": "DEF5678",
-      "ativo": false,
-      "situacao": "Inativo",
+      "situacao": false,
       "viagens": true,
       "status_comunicacao": "Atrasada"
     },
@@ -22,8 +20,7 @@
       "id": 3,
       "nome": "Carro3",
       "placa": "GHI9101",
-      "ativo": true,
-      "situacao": "No tempo certo",
+      "situacao": false,
       "viagens": true,
       "status_comunicacao": "No tempo certo"
     },
@@ -31,8 +28,7 @@
       "id": 4,
       "nome": "Carro4",
       "placa": "JKL2345",
-      "ativo": true,
-      "situacao": "No tempo certo",
+      "situacao": true,
       "viagens": false,
       "status_comunicacao": "No tempo certo"
     }
