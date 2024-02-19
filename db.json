@@ -6,7 +6,7 @@
       "placa": "ABC1234",
       "situacao": true,
       "viagens": false,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "placa": "DEF5678",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "Atrasada"
+      "status_comunicacao": false
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "placa": "JKL2345",
       "situacao": true,
       "viagens": false,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "placa": "JKL2345",
       "situacao": true,
       "viagens": false,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "placa": "GHI9101",
       "situacao": false,
       "viagens": true,
-      "status_comunicacao": "No tempo certo"
+      "status_comunicacao": true
     }
   ]
 }
